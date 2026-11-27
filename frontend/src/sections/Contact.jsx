@@ -56,7 +56,7 @@ const Contact = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/contact",
+        "https://my-portfolio-1-7syn.onrender.com/api/contact",
         {
           method: "POST",
           headers: {
