@@ -101,8 +101,8 @@ npm run dev
 
 Feel free to connect with me:
 
-- **GitHub:** https://github.com/ayushpatel
-- **LinkedIn:** https://www.linkedin.com/in/ayushpatel/
+- **GitHub:** https://github.com/Ayush0299
+- **LinkedIn:** https://www.linkedin.com/in/Ayushpatel0310/
 - **Email:** patelayush0310@gmail.com
 
 ## 👨‍💻 Author
