@@ -33,7 +33,7 @@ const projects = [
     image: "/projects/My-Portfolio.png",
     technologies: ["JavaScript", "React.js", "Tailwind CSS"],
     // live: "#",
-    github: "#",
+    github: "https://github.com/Ayush0299/my-portfolio/",
   },
 ];
 
